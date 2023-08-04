@@ -1,0 +1,184 @@
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'abuesaco_esa'@'localhost' to database 'abuesaco_esa' in /home/abuesaco/public_html/qs/db.php on line 8
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'abuesaco_esa'@'localhost' to database 'abuesaco_esa' in /home/abuesaco/public_html/qs/db.php on line 8
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/header.php on line 8
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/header.php on line 9
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/header.php on line 13
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/header.php on line 14
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/header.php on line 68
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/header.php on line 69
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/header.php on line 75
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/header.php on line 76
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/index.php on line 6
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/index.php on line 7
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 9
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/index.php on line 12
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/index.php on line 13
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/index.php on line 18
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/index.php on line 22
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/index.php on line 26
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/index.php on line 30
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/index.php on line 31
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 59
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 65
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 67
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 71
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abuesaco/public_html/qs/index.php on line 78
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abuesaco/public_html/qs/index.php on line 140
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abuesaco/public_html/qs/index.php on line 194
+[28-Jun-2023 08:04:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abuesaco/public_html/qs/index.php on line 238
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 313
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 322
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/index.php on line 331
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/footer.php on line 6
+[28-Jun-2023 08:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/footer.php on line 7
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'abuesaco_esa'@'localhost' to database 'abuesaco_esa' in /home/abuesaco/public_html/qs/db.php on line 8
+[28-Jun-2023 08:05:56 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 9
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 13
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/dashboard_header.php on line 14
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 18
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[28-Jun-2023 08:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 113
+[28-Jun-2023 08:05:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abuesaco/public_html/qs/dashboard_header.php on line 120
+[28-Jun-2023 08:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 08:06:10 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'abuesaco_esa'@'localhost' to database 'abuesaco_esa' in /home/abuesaco/public_html/qs/db.php on line 8
+[28-Jun-2023 08:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/abuesaco/public_html/qs/post_login.php on line 9
+[28-Jun-2023 08:06:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/abuesaco/public_html/qs/post_login.php on line 10
+[28-Jun-2023 08:06:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/post_login.php on line 13
+[28-Jun-2023 08:09:57 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[28-Jun-2023 08:39:51 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[28-Jun-2023 10:17:20 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[28-Jun-2023 10:19:14 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[28-Jun-2023 11:19:20 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[28-Jun-2023 11:19:20 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/roll_check.php on line 3
+[28-Jun-2023 11:19:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/roll_check.php on line 6
+[28-Jun-2023 11:19:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/roll_check.php on line 9
+[28-Jun-2023 13:29:54 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[28-Jun-2023 13:29:54 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/roll_check.php on line 3
+[28-Jun-2023 13:29:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/roll_check.php on line 6
+[28-Jun-2023 13:29:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/roll_check.php on line 9
+[03-Jul-2023 08:10:51 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 08:47:06 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 08:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 16:43:38 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 16:43:40 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 16:47:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 16:47:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 16:47:43 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[03-Jul-2023 16:53:36 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[03-Jul-2023 16:53:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[03-Jul-2023 16:53:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 16:55:15 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[03-Jul-2023 16:55:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[03-Jul-2023 16:55:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 16:55:38 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[03-Jul-2023 17:00:46 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 17:05:56 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 17:29:40 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Jul-2023 17:29:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:30:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:30:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:31:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:32:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:44:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 18:04:06 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 02:10:49 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 02:10:49 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/roll_check.php on line 3
+[04-Jul-2023 02:10:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/roll_check.php on line 6
+[04-Jul-2023 02:10:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/roll_check.php on line 9
+[04-Jul-2023 02:30:13 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 02:30:13 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/roll_check.php on line 3
+[04-Jul-2023 02:30:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/roll_check.php on line 6
+[04-Jul-2023 02:30:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/roll_check.php on line 9
+[04-Jul-2023 02:49:47 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 02:49:58 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[04-Jul-2023 02:49:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[04-Jul-2023 02:49:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 02:50:06 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[04-Jul-2023 06:00:00 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[04-Jul-2023 11:00:02 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 17:39:46 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 17:39:46 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/roll_check.php on line 3
+[04-Jul-2023 17:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/roll_check.php on line 6
+[04-Jul-2023 17:39:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/roll_check.php on line 9
+[04-Jul-2023 18:04:39 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[04-Jul-2023 18:04:53 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[05-Jul-2023 11:53:24 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[05-Jul-2023 11:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:55:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:55:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:56:01 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[05-Jul-2023 11:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[05-Jul-2023 11:56:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:57:35 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[05-Jul-2023 11:58:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:58:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:58:35 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[05-Jul-2023 12:00:45 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[05-Jul-2023 12:00:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[05-Jul-2023 12:00:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:33:21 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 11:33:42 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 11:34:34 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 11:34:45 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 11:35:18 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 11:37:18 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 11:40:10 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[06-Jul-2023 11:40:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[06-Jul-2023 11:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:45:33 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[06-Jul-2023 11:45:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[06-Jul-2023 11:45:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:45:36 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[06-Jul-2023 11:45:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[06-Jul-2023 11:45:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:46:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 18:02:11 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[06-Jul-2023 18:02:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[06-Jul-2023 18:02:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 18:02:26 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[06-Jul-2023 18:03:20 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[06-Jul-2023 18:05:41 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[06-Jul-2023 18:05:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[06-Jul-2023 18:05:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 18:05:55 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[06-Jul-2023 18:09:23 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[06-Jul-2023 18:09:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[06-Jul-2023 18:09:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 18:17:57 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[07-Jul-2023 14:40:34 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[07-Jul-2023 14:40:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[07-Jul-2023 14:40:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[07-Jul-2023 14:40:45 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[09-Jul-2023 10:09:59 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[10-Jul-2023 14:39:33 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[10-Jul-2023 14:39:43 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[10-Jul-2023 14:39:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[10-Jul-2023 14:39:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[10-Jul-2023 14:39:54 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[10-Jul-2023 14:42:39 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[10-Jul-2023 14:42:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[10-Jul-2023 14:42:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[10-Jul-2023 14:42:48 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22
+[10-Jul-2023 14:43:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[10-Jul-2023 17:49:20 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[11-Jul-2023 07:12:09 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[11-Jul-2023 07:12:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[11-Jul-2023 07:12:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[16-Jul-2023 12:02:37 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[16-Jul-2023 12:03:03 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[16-Jul-2023 16:13:22 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[16-Jul-2023 16:13:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[16-Jul-2023 16:13:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[25-Jul-2023 17:11:48 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[31-Jul-2023 05:15:19 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[31-Jul-2023 23:30:15 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[31-Jul-2023 23:30:18 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[01-Aug-2023 07:11:50 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Aug-2023 08:43:16 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/header.php on line 6
+[03-Aug-2023 08:44:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Aug-2023 08:45:14 UTC] PHP Notice:  Undefined index: roll in /home/abuesaco/public_html/qs/post_login.php on line 22

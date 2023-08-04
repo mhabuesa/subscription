@@ -1,0 +1,259 @@
+[28-Jun-2023 08:39:19 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[28-Jun-2023 08:39:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[28-Jun-2023 08:39:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 08:39:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:39:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:39:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:39:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:39:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:41:47 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/view_album.php on line 4
+[28-Jun-2023 08:41:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:41:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:41:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:41:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:41:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:43:10 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/view_album.php on line 4
+[28-Jun-2023 08:43:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:43:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:43:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:43:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:43:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 08:43:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:43:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:48:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:48:17 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 08:48:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:48:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:48:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:48:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:48:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 08:48:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:48:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:50:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:50:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:50:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:50:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:50:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:51:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:51:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:51:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:51:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:51:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 08:59:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:59:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 08:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:59:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/abuesaco/public_html/qs/dashboard_header.php on line 2
+[28-Jun-2023 08:59:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/qs_info_edit.php on line 16
+[28-Jun-2023 08:59:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/qs_info_edit.php on line 39
+[28-Jun-2023 08:59:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:59:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:59:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:59:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:59:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:59:53 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 08:59:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:59:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:59:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:59:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:59:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 08:59:55 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 08:59:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 08:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 08:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 08:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 08:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:02:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:02:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:02:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:02:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:02:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:03:17 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 09:03:17 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 09:03:17 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 09:03:17 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 09:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 09:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 09:03:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:03:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:03:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:03:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:03:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 09:04:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:08:00 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 09:08:00 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 09:08:00 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 09:08:00 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 09:08:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 09:08:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 09:08:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:08:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:08:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:08:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:08:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:11:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Undefined index: album_number in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 4
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Undefined index: artist_name in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 5
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Undefined index: qs in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 6
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Undefined index: qs_title in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 7
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 12
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/add_qs_post.php on line 17
+[28-Jun-2023 09:14:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:14:31 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 09:14:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:14:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:14:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:14:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:14:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:14:32 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 09:14:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:14:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:14:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:14:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:14:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:14:33 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 09:14:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:14:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:14:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:14:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:14:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:14:35 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 09:14:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:14:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:14:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:14:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:14:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 09:14:36 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 09:14:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/album/view_album.php on line 9
+[28-Jun-2023 09:14:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 11
+[28-Jun-2023 09:14:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 33
+[28-Jun-2023 09:14:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 34
+[28-Jun-2023 09:14:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/album/view_album.php on line 89
+[28-Jun-2023 10:17:17 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[28-Jun-2023 10:17:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[28-Jun-2023 10:17:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 10:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 10:29:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 10:30:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 10:30:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 10:30:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:21:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:21:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:21:51 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[28-Jun-2023 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:22:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:22:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:22:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[28-Jun-2023 11:22:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 08:50:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 16:47:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:44:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:44:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:46:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:53:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:54:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:55:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:56:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:57:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:58:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:59:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 17:59:24 UTC] PHP Notice:  Undefined index: alb_no in /home/abuesaco/public_html/qs/album/delete_qs.php on line 4
+[03-Jul-2023 17:59:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[03-Jul-2023 18:00:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 02:30:19 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[04-Jul-2023 02:30:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[04-Jul-2023 02:30:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 05:59:50 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[04-Jul-2023 05:59:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[04-Jul-2023 05:59:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:04:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:10:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:48:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:48:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:48:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:49:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:51:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:52:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:52:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:54:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:54:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:55:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:55:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:58:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:59:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:59:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:59:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 06:59:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[04-Jul-2023 17:39:46 UTC] PHP Notice:  Undefined index: id in /home/abuesaco/public_html/qs/dashboard_header.php on line 6
+[04-Jul-2023 17:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/abuesaco/public_html/qs/dashboard_header.php on line 19
+[04-Jul-2023 17:39:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:55:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[05-Jul-2023 11:58:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:46:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:46:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:46:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:46:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
+[06-Jul-2023 11:46:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/abuesaco/public_html/qs/dashboard_header.php on line 150
